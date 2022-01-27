@@ -2,7 +2,6 @@
 - I am Senior Information Systems student at the University of Arkansas
 - I am currently learning python for data analytics as well as Swift for mobile development
 - I am also very interested in blockchain development
-- There are seperate repositories for school, professional, and personal projects
 
 <!---
 jmjustis/jmjustis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
